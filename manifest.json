@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "built": "2026-11-17T19:23:37.688Z",
+  "source": {
+    "repo": "pranab1981/zipboard-websitev2",
+    "commit": "80db3cbc84f7491ac75683e999c9b245476200ce",
+    "dirty": false
+  },
+  "css": "css/zipboard.css",
+  "fonts": "https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Geist+Mono:wght@400..600&family=Inter+Tight:wght@500;600;700&display=swap",
+  "parts": {
+    "header": {
+      "kind": "chrome",
+      "html": "parts/header.html",
+      "js": "js/header.js"
+    },
+    "footer": {
+      "kind": "chrome",
+      "html": "parts/footer.html",
+      "js": "js/footer.js"
+    },
+    "home": {
+      "kind": "page",
+      "html": "parts/home.html",
+      "js": "js/home.js"
+    },
+    "orbit-check": {
+      "kind": "page",
+      "html": "parts/orbit-check.html",
+      "js": "js/orbit-check.js"
+    }
+  }
+}
