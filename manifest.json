@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "built": "2026-11-17T19:23:56.651Z",
+  "built": "2026-11-17T19:31:29.582Z",
   "source": {
     "repo": "pranab1981/zipboard-websitev2",
-    "commit": "cbbd9d0c95dbdf0b1c987d67b818fdc5bda2839b",
+    "commit": "eb3d3f769168013dfb30259cd24b09a6c3c66769",
     "dirty": false
   },
   "css": "css/zipboard.css",
@@ -23,11 +23,6 @@
       "kind": "page",
       "html": "parts/home.html",
       "js": "js/home.js"
-    },
-    "orbit-check": {
-      "kind": "page",
-      "html": "parts/orbit-check.html",
-      "js": "js/orbit-check.js"
     }
   }
 }
